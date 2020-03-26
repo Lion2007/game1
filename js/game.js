@@ -1,6 +1,6 @@
 'use strict';
 
-Physijs.scripts.worker = 'physijs_worker.js';
+Physijs.scripts.worker = 'js/physijs_worker.js';
 Physijs.scripts.ammo = 'ammo.js';
 
 var Game = function() {};
